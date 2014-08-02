@@ -1,0 +1,8 @@
+package com.MagicManMe.ModTest1;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="ModTest1", name="ModTest1", version="1.7.10-1.0")
+public class ModTest1 {
+
+}

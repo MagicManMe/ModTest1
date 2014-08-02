@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ModTest1",
+  "name": "ModTest1",
+  "description": "Magic's first mod, following along with pahimar's lets mod reboot!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MagicManMe"
+  ],
+  "credits": "Me, Myself, and I",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

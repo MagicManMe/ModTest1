@@ -1,0 +1,5 @@
+package com.MagicManMe.proxy.copy;
+
+public interface IProxy {
+
+}
